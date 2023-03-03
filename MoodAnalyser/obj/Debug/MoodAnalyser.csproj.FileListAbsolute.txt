@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\bin\Debug\MoodAnalyser.exe.config
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\bin\Debug\MoodAnalyser.exe
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\bin\Debug\MoodAnalyser.pdb
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.exe
+C:\Users\PC\Desktop\RFT-256\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.pdb
